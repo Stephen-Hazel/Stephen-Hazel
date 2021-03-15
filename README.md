@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Stephen-Hazel
+- 👀 I’m interested in programming and piano
+- 🌱 I’m currently learning Qt and Angular
+- 💞️ I’m looking to collaborate on midi projects
+- 📫 How to reach me - stephen.hazel@gmail.com
