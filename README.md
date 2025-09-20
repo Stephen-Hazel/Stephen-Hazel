@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephen-Hazel
 - 👀 I’m interested in programming and piano
-- 🌱 I’m currently learning Rails and Rust
+- 🌱 I’m currently learning Rails and Rust (but using c++)
 - 💞️ I’m looking to collaborate on midi projects
 - 📫 How to reach me - stephen.hazel@gmail.com
